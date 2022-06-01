@@ -1,0 +1,9 @@
+"D:\CLion\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\Uni File\2021Spring\C&Cpp Programing\CS205Project\CS205Project_6.10\CS205Project"
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: OFF
+-- Found OpenCV 4.5.2 in D:/opencv/opencv/mingw-build/install/x64/mingw/lib
+-- You might need to add D:/opencv/opencv/mingw-build/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Uni File/2021Spring/C&Cpp Programing/CS205Project/CS205Project_6.10/CS205Project/cmake-build-debug
